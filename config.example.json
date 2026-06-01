@@ -1,0 +1,31 @@
+{
+    "// 说明": "复制此文件为 config.json，填入你的真实配置",
+
+    "// === 企业微信配置 ===": "",
+    "corp_id": "ww2702c3b68da76cb2",
+    "app_secret": "EtLKCXUCYBriKq7xKez47T7biS7A_LC0rYpNa5Rk6Zk",
+    "agent_id": "1000002",
+    "token": "fplxa0pqtwbSyB8TnS",
+    "encoding_aes_key": "NxaWnD0yTCb31kgUbJ1EY5IeV44KUmeGHcXbvraHNyf",
+
+    "// === AI 接口配置 ===": "",
+    "api_key": "ark-6bc0279b-6805-466a-98e0-d8f5c6551988-f9852",
+    "api_base": "https://ark.cn-beijing.volces.com/api/v3",
+    "model": "ep-20260601103500-2js6g",
+
+    "// === 基本设置 ===": "",
+    "bot_name": "安妮",
+    "user_name": "轩轩",
+    "bot_city": "深圳（用于天气）",
+    "user_city": "东京（用于天气）",
+    "relationship_with_user": "朋友",
+    "relationship_prompt": "你是这个人，正在用微信跟对方聊天。",
+    "port": 4999,
+    "enable_voice": true,
+
+    "// === 语音配置（可选）===": "",
+    "// 不填则自动使用 edge-tts 免费方案": "",
+    "iflytek_appid": "",
+    "iflytek_apisecret": "",
+    "iflytek_apikey": ""
+}
