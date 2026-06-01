@@ -1,0 +1,22 @@
+# 配置文件（含密钥）
+current/*/config.json
+deploy_config.json
+
+# 聊天记录
+current/*/chat_history.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
